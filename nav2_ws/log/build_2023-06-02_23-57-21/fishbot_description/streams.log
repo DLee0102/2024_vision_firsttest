@@ -1,0 +1,21 @@
+[0.463s] Invoking command in '/home/dl/nav2_ws/src/fishbot_description': PYTHONPATH=/home/dl/nav2_ws/build/fishbot_description/prefix_override:/home/dl/nav2_ws/install/fishbot_description/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/fishbot_description build --build-base /home/dl/nav2_ws/build/fishbot_description/build install --record /home/dl/nav2_ws/build/fishbot_description/install.log --single-version-externally-managed
+[0.602s] running egg_info
+[0.603s] writing ../../build/fishbot_description/fishbot_description.egg-info/PKG-INFO
+[0.603s] writing dependency_links to ../../build/fishbot_description/fishbot_description.egg-info/dependency_links.txt
+[0.603s] writing entry points to ../../build/fishbot_description/fishbot_description.egg-info/entry_points.txt
+[0.603s] writing requirements to ../../build/fishbot_description/fishbot_description.egg-info/requires.txt
+[0.603s] writing top-level names to ../../build/fishbot_description/fishbot_description.egg-info/top_level.txt
+[0.604s] reading manifest file '../../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[0.605s] writing manifest file '../../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[0.605s] running build
+[0.605s] running build_py
+[0.606s] running install
+[0.606s] running install_lib
+[0.607s] running install_data
+[0.609s] running install_egg_info
+[0.610s] removing '/home/dl/nav2_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.610s] Copying ../../build/fishbot_description/fishbot_description.egg-info to /home/dl/nav2_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info
+[0.611s] running install_scripts
+[0.623s] Installing rotate_wheel script to /home/dl/nav2_ws/install/fishbot_description/lib/fishbot_description
+[0.623s] writing list of installed files to '/home/dl/nav2_ws/build/fishbot_description/install.log'
+[0.639s] Invoked command in '/home/dl/nav2_ws/src/fishbot_description' returned '0': PYTHONPATH=/home/dl/nav2_ws/build/fishbot_description/prefix_override:/home/dl/nav2_ws/install/fishbot_description/lib/python3.10/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/fishbot_description build --build-base /home/dl/nav2_ws/build/fishbot_description/build install --record /home/dl/nav2_ws/build/fishbot_description/install.log --single-version-externally-managed

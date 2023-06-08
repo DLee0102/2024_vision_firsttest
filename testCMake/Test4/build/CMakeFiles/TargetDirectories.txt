@@ -1,0 +1,4 @@
+/home/dl/桌面/testCMake/Test4/build/CMakeFiles/hello_library.dir
+/home/dl/桌面/testCMake/Test4/build/CMakeFiles/hello_binary.dir
+/home/dl/桌面/testCMake/Test4/build/CMakeFiles/edit_cache.dir
+/home/dl/桌面/testCMake/Test4/build/CMakeFiles/rebuild_cache.dir

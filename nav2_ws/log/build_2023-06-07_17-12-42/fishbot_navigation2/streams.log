@@ -1,0 +1,39 @@
+[0.010s] Invoking command in '/home/dl/nav2_ws/build/fishbot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dl/nav2_ws/build/fishbot_navigation2 -- -j16 -l16
+[0.034s] Invoked command in '/home/dl/nav2_ws/build/fishbot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dl/nav2_ws/build/fishbot_navigation2 -- -j16 -l16
+[0.053s] Invoking command in '/home/dl/nav2_ws/build/fishbot_navigation2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dl/nav2_ws/build/fishbot_navigation2
+[0.057s] -- Install configuration: ""
+[0.057s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/launch
+[0.057s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/launch/gazebo.launch.py
+[0.057s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param
+[0.057s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/fishbot_nav2.yaml
+[0.057s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/build
+[0.057s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/build/COLCON_IGNORE
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/build/.built_by
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/log
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/log/COLCON_IGNORE
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/log/latest_build
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/log/build_2023-06-07_17-02-53
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/log/build_2023-06-07_17-02-53/logger_all.log
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/log/latest
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/install
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/install/COLCON_IGNORE
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/param/install/.colcon_install_layout
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/maps
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/maps/fishbot_map.yaml
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/maps/fishbot_map.pgm
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/ament_index/resource_index/package_run_dependencies/fishbot_navigation2
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/ament_index/resource_index/parent_prefix_path/fishbot_navigation2
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/environment/ament_prefix_path.sh
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/environment/ament_prefix_path.dsv
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/environment/path.sh
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/environment/path.dsv
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/local_setup.bash
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/local_setup.sh
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/local_setup.zsh
+[0.058s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/local_setup.dsv
+[0.059s] -- Installing: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/package.dsv
+[0.059s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/ament_index/resource_index/packages/fishbot_navigation2
+[0.059s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/cmake/fishbot_navigation2Config.cmake
+[0.059s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/cmake/fishbot_navigation2Config-version.cmake
+[0.059s] -- Up-to-date: /home/dl/nav2_ws/install/fishbot_navigation2/share/fishbot_navigation2/package.xml
+[0.060s] Invoked command in '/home/dl/nav2_ws/build/fishbot_navigation2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dl/nav2_ws/build/fishbot_navigation2

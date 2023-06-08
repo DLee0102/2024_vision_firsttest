@@ -1,0 +1,3 @@
+/home/dl/桌面/testCMake/Test10/build/CMakeFiles/imported_targets.dir
+/home/dl/桌面/testCMake/Test10/build/CMakeFiles/edit_cache.dir
+/home/dl/桌面/testCMake/Test10/build/CMakeFiles/rebuild_cache.dir

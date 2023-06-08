@@ -1,0 +1,17 @@
+include_directories(${OpenCV_INCLUDE_DIRS})
+
+add_executable(TestBinarization TestBinarization.cpp)
+add_executable(TestSobel TestSobel.cpp)
+add_executable(TestCanny TestCanny.cpp)
+add_executable(TestFilters TestFilters.cpp)
+add_executable(TestErosion TestErosion.cpp)
+add_executable(TestDilation TestDilation.cpp)
+add_executable(TestCore TestCore.cpp)
+
+target_link_libraries(TestBinarization ${OpenCV_LIBS})
+target_link_libraries(TestSobel ${OpenCV_LIBS})
+target_link_libraries(TestCanny ${OpenCV_LIBS})
+target_link_libraries(TestFilters ${OpenCV_LIBS})
+target_link_libraries(TestErosion ${OpenCV_LIBS})
+target_link_libraries(TestDilation ${OpenCV_LIBS})
+target_link_libraries(TestCore ${OpenCV_LIBS})

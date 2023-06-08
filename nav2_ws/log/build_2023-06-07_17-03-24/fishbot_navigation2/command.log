@@ -1,0 +1,2 @@
+Invoking command in '/home/dl/nav2_ws/build/fishbot_navigation2': /usr/bin/cmake /home/dl/nav2_ws/src/fishbot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/dl/nav2_ws/install/fishbot_navigation2
+Invoked command in '/home/dl/nav2_ws/build/fishbot_navigation2' returned '1': /usr/bin/cmake /home/dl/nav2_ws/src/fishbot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/dl/nav2_ws/install/fishbot_navigation2

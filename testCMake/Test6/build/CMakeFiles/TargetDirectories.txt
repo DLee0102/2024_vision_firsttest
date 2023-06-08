@@ -1,0 +1,3 @@
+/home/dl/桌面/testCMake/Test6/build/CMakeFiles/cmake_examples_compile_flags.dir
+/home/dl/桌面/testCMake/Test6/build/CMakeFiles/edit_cache.dir
+/home/dl/桌面/testCMake/Test6/build/CMakeFiles/rebuild_cache.dir

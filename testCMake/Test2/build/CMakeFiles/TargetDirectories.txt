@@ -1,0 +1,3 @@
+/home/dl/桌面/testCMake/build/CMakeFiles/hello_headers.dir
+/home/dl/桌面/testCMake/build/CMakeFiles/edit_cache.dir
+/home/dl/桌面/testCMake/build/CMakeFiles/rebuild_cache.dir

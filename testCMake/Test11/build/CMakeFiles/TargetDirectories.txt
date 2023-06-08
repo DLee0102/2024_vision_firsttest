@@ -1,0 +1,3 @@
+/home/dl/桌面/testCMake/Test11/build/CMakeFiles/cpp_standard.dir
+/home/dl/桌面/testCMake/Test11/build/CMakeFiles/edit_cache.dir
+/home/dl/桌面/testCMake/Test11/build/CMakeFiles/rebuild_cache.dir
